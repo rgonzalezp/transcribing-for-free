@@ -1,0 +1,4 @@
+requests
+typer
+tqdm
+zeroconf 
