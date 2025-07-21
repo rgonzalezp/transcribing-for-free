@@ -1,2 +1,4 @@
 - Make the process run various instances of model and run in parallel. Split the audio source in 3-5 equal parts to have partial components finished and the stitch everything together
 - Add progressive result somehow into the server and the client just to diagnose and make sure it is working correctly.
+- Create a parameter for endpoint to use faster/slower option
+- Verify that there is a language parameter to feed into the server call that can be used in the client to generate transcripts for different languages
