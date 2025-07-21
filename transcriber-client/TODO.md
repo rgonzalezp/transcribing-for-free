@@ -1,3 +1,2 @@
 - Add progressive result somehow into the server and the client just to diagnose and make sure it is working correctly.
 - Create a crappy executable that I can access easily, navigate through windows viewer and select my file and do all this transcription nonsense automatically 
-- Make the process run various instances of model and run in parallel. Split the audio source in 3-5 equal parts to have partial components finished and the stitch everything together
